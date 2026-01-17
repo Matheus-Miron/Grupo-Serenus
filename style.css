@@ -158,6 +158,20 @@ main {
   padding: 30px 0;
   position: relative;
   margin-top: 85px;
+  margin-left: -5px;
+}
+
+.icons-svg {
+   width: 24px;
+  height: 24px;
+}
+
+@media (max-width: 768px) {
+  .icons-svg {
+    width: 32px;
+    height: 32px;
+
+  }
 }
 
 .footer .container {
@@ -165,8 +179,13 @@ main {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 30px;
+
 }
 
+.footer-info {
+margin-left: 15px;
+
+}
 .footer-logo span {
   color: #ffc3c3;
 }
@@ -176,6 +195,7 @@ main {
   background: #5a0a23;
   padding: 10px 0;
   font-size: 0.9rem;
+
 }
 
 /* RESPONSIVO */
@@ -183,6 +203,7 @@ main {
   .hero {
     flex-direction: column;
     text-align: center;
+  
   }
 
   .hero-text, .hero-image {
