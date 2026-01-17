@@ -1,0 +1,47 @@
+<svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg" aria-label="Elo Eterno Funerária">
+  <!-- ÍCONE -->
+  <g fill="#2b2416">
+    <!-- Cruz -->
+    <rect x="245" y="20" width="20" height="80"></rect>
+    <rect x="215" y="50" width="80" height="20"></rect>
+
+    <!-- Elo infinito -->
+    <path d="
+        M160 140
+        c-50 0 -80 35 -80 70
+        s30 70 80 70
+        c30 0 55 -15 90 -50
+        c35 35 60 50 90 50
+        c50 0 80 -35 80 -70
+        s-30 -70 -80 -70
+        c-30 0 -55 15 -90 50
+        c-35 -35 -60 -50 -90 -50
+        z
+
+        M160 170
+        c30 0 50 15 80 40
+        c-30 25 -50 40 -80 40
+        c-25 0 -40 -20 -40 -40
+        s15 -40 40 -40
+        z
+
+        M340 170
+        c25 0 40 20 40 40
+        s-15 40 -40 40
+        c-30 0 -50 -15 -80 -40
+        c30 -25 50 -40 80 -40
+        z
+      "></path>
+  </g>
+
+  <!-- TEXTO -->
+  <g fill="#2b2416" text-anchor="middle">
+    <text x="250" y="330" font-size="56" font-family="Georgia, 'Times New Roman', serif" font-weight="500">
+      Elo Eterno
+    </text>
+
+    <text x="250" y="375" font-size="26" letter-spacing="4" font-family="Arial, Helvetica, sans-serif">
+      FUNERÁRIA
+    </text>
+  </g>
+</svg>

@@ -161,6 +161,10 @@ main {
   margin-left: -5px;
 }
 
+.eloeterno-svg {
+  max-width: 150px;
+}
+
 .icons-svg {
    width: 24px;
   height: 24px;
@@ -294,3 +298,4 @@ background-color: #e1e1e1;
 .planostitle {
   text-align: center;
 }
+
